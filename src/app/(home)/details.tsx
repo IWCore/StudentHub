@@ -9,8 +9,8 @@ export default function DetailsScreen(){
             <Text style={styles.title}>Digital ID Card</Text>
             <Image source= {require('D:/UOK/3rd year/3rd year 2nd sem/COST 32152 - Mobile Application/Practicals/Practical 3/Mobile Application Practical 03/StudentHub-main/assets/images/user.png')} 
             style={styles.image} />
-            <Text style = {styles.text}>Name: Enter your name here</Text>
-            <Text style = {styles.text}>Student ID: Enter your ID here</Text>
+            <Text style = {styles.text}>Name: P. G. I. W. Dharmasiri</Text>
+            <Text style = {styles.text}>Student ID: PE/2022/053</Text>
             <Text style = {styles.text}>Course: Mobile Application Development</Text>
         </View>
     );
